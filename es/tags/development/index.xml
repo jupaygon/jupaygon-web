@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Development on Code &amp; AI</title>
+    <link>https://juanjopaya.com/es/tags/development/</link>
+    <description>Recent content in Development on Code &amp; AI</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>2026 Juanjo Payá</copyright>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juanjopaya.com/es/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Augmented Development: mi experiencia real trabajando con un agente IA</title>
+      <link>https://juanjopaya.com/es/posts/ai-augmented-development/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://juanjopaya.com/es/posts/ai-augmented-development/</guid>
+      <description>Llevo meses trabajando con un agente IA como colaborador de desarrollo. No es autocompletado. Es otro developer en el equipo. Esto es lo que he aprendido.</description>
+    </item>
+  </channel>
+</rss>
