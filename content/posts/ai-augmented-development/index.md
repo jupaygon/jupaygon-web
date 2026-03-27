@@ -4,6 +4,10 @@ date: '2026-03-26'
 draft: false
 description: 'I have been working with an AI agent as a development collaborator for months. It is not autocomplete. It is another developer on the team. This is what I have learned.'
 tags: ['ai', 'development', 'claude-code', 'productivity']
+cover:
+  image: 'cover.jpg'
+  alt: 'Developer working with an AI agent'
+  relative: true
 ShowToc: true
 TocOpen: false
 ---

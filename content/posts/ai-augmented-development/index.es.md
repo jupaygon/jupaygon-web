@@ -4,6 +4,10 @@ date: '2026-03-26'
 draft: false
 description: 'Llevo meses trabajando con un agente IA como colaborador de desarrollo. No es autocompletado. Es otro developer en el equipo. Esto es lo que he aprendido.'
 tags: ['ai', 'development', 'claude-code', 'productivity']
+cover:
+  image: 'cover.jpg'
+  alt: 'Developer working with an AI agent'
+  relative: true
 ShowToc: true
 TocOpen: false
 ---
