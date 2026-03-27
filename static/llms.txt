@@ -1,0 +1,47 @@
+# Code & AI — juanjopaya.com
+
+> Personal blog by Juanjo Payá, Senior Software Engineer building software since 2003.
+
+## About
+
+This is a technical blog focused on AI-Augmented Development — using AI agents as real collaborators in the software development workflow. The author has over two decades of experience in PHP, Symfony, and backend architecture, and has integrated an AI agent (Jarvis) into his daily workflow with its own GitHub identity, Jira access, and limited permissions.
+
+## Author
+
+- Name: Juanjo Payá
+- Role: Senior Software Engineer, CTO & Co-Founder
+- GitHub: https://github.com/jupaygon
+- LinkedIn: https://linkedin.com/in/jupaygon
+- X: https://x.com/jupaygon
+
+## AI Collaborator
+
+- Name: Jarvis
+- Role: AI developer agent
+- GitHub: https://github.com/jarvis-aidev
+- Description: AI agent with its own GitHub identity, operating under structured policies, limited permissions, and human review. Not fine-tuning — prompt engineering with structured context.
+
+## Content
+
+- Blog posts about AI-Augmented Development, productivity, documentation, security
+- Open source tools: AI skills, Symfony skeletons, Docker environments
+- Written in English and Spanish (i18n)
+
+## Key Pages
+
+- Home (EN): https://juanjopaya.com/en/
+- Home (ES): https://juanjopaya.com/es/
+- About (EN): https://juanjopaya.com/en/about/
+- About (ES): https://juanjopaya.com/es/about/
+
+## Topics
+
+PHP, Symfony, Laravel, AI, Claude Code, Codex, AI-Augmented Development, Agentic Development, AI Agent, AI Skills, MCP, Prompt Engineering, Hexagonal Architecture, SOLID, Clean Architecture, Docker
+
+## Stack
+
+- SSG: Hugo
+- Theme: PaperMod
+- Hosting: GitHub Pages
+- CI/CD: GitHub Actions
+- Source: https://github.com/jupaygon/juanjopaya-web

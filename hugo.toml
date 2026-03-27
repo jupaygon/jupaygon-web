@@ -23,6 +23,7 @@ buildExpired = false
 [params]
   env = 'production'
   author = 'Juanjo Payá'
+  images = ['/images/og-default.jpg']
   mainSections = ['posts']
   defaultTheme = 'light'
   disableThemeToggle = false
@@ -60,8 +61,15 @@ buildExpired = false
     hiddenInSingle = false
 
 
+  [params.schema]
+    publisherType = 'Person'
+
   [params.assets]
     disableFingerprinting = false
+    favicon = '/favicon.ico'
+    favicon16x16 = '/favicon-16x16.png'
+    favicon32x32 = '/favicon-32x32.png'
+    apple_touch_icon = '/apple-touch-icon.png'
 
   [params.fuseOpts]
     isCaseSensitive = false
