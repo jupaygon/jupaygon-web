@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Claude-Code on Code &amp; AI</title>
-    <link>https://juanjopaya.com/en/tags/claude-code/</link>
+    <link>https://jupaygon.com/en/tags/claude-code/</link>
     <description>Recent content in Claude-Code on Code &amp; AI</description>
     <image>
       <title>Code &amp; AI</title>
-      <url>https://juanjopaya.com/images/og-default.jpg</url>
-      <link>https://juanjopaya.com/images/og-default.jpg</link>
+      <url>https://jupaygon.com/images/og-default.jpg</url>
+      <link>https://jupaygon.com/images/og-default.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
     <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://juanjopaya.com/en/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jupaygon.com/en/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Skills: how to give your AI agent verified knowledge it does not have</title>
-      <link>https://juanjopaya.com/en/posts/ai-skills-easyadmin5/</link>
+      <link>https://jupaygon.com/en/posts/ai-skills-easyadmin5/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://juanjopaya.com/en/posts/ai-skills-easyadmin5/</guid>
+      <guid>https://jupaygon.com/en/posts/ai-skills-easyadmin5/</guid>
       <description>Your AI agent does not know what changed in the latest version of the technologies you use. AI Skills fix that: structured, verified documentation optimized for machines. Here is how we build and use them.</description>
     </item>
     <item>
       <title>AI-Augmented Development: my real experience working with an AI agent</title>
-      <link>https://juanjopaya.com/en/posts/ai-augmented-development/</link>
+      <link>https://jupaygon.com/en/posts/ai-augmented-development/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://juanjopaya.com/en/posts/ai-augmented-development/</guid>
+      <guid>https://jupaygon.com/en/posts/ai-augmented-development/</guid>
       <description>I have been working with an AI agent as a development collaborator for months. It is not autocomplete. It is another developer on the team. This is what I have learned.</description>
     </item>
   </channel>
