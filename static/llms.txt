@@ -44,4 +44,4 @@ PHP, Symfony, Laravel, AI, Claude Code, Codex, AI-Augmented Development, Agentic
 - Theme: PaperMod
 - Hosting: GitHub Pages
 - CI/CD: GitHub Actions
-- Source: https://github.com/jupaygon/juanjopaya-web
+- Source: https://github.com/jupaygon/jupaygon-web

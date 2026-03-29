@@ -88,4 +88,4 @@ Si eres developer y aún piensas en la IA como "el autocompletado que a veces ac
 
 ---
 
-*Este blog --- incluyendo este post --- se ha construido siguiendo exactamente el flujo que describo. Puedes verlo en el <a href="https://github.com/jupaygon/juanjopaya-web" target="_blank">repositorio</a>.*
+*Este blog --- incluyendo este post --- se ha construido siguiendo exactamente el flujo que describo. Puedes verlo en el <a href="https://github.com/jupaygon/jupaygon-web" target="_blank">repositorio</a>.*

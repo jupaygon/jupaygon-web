@@ -2,7 +2,7 @@
 
 Personal blog and portfolio built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-[![Deploy Hugo site to Pages](https://github.com/jupaygon/juanjopaya-web/actions/workflows/hugo.yaml/badge.svg)](https://github.com/jupaygon/juanjopaya-web/actions/workflows/hugo.yaml)
+[![Deploy Hugo site to Pages](https://github.com/jupaygon/jupaygon-web/actions/workflows/hugo.yaml/badge.svg)](https://github.com/jupaygon/jupaygon-web/actions/workflows/hugo.yaml)
 
 ## Stack
 

@@ -88,4 +88,4 @@ If you are a developer and still think of AI as "the autocomplete that sometimes
 
 ---
 
-*This blog --- including this post --- was built following exactly the workflow I describe. You can see it in the <a href="https://github.com/jupaygon/juanjopaya-web" target="_blank">repository</a>.*
+*This blog --- including this post --- was built following exactly the workflow I describe. You can see it in the <a href="https://github.com/jupaygon/jupaygon-web" target="_blank">repository</a>.*
