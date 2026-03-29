@@ -1,4 +1,4 @@
-# juanjopaya.com
+# jupaygon.com
 
 Personal blog and portfolio built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
 
@@ -10,7 +10,7 @@ Personal blog and portfolio built with [Hugo](https://gohugo.io/) and hosted on 
 - **Theme:** [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (dark mode, customized)
 - **Hosting:** GitHub Pages
 - **CI/CD:** GitHub Actions
-- **Domain:** juanjopaya.com
+- **Domain:** jupaygon.com
 
 ## Local development
 
