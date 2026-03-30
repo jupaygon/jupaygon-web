@@ -16,16 +16,16 @@
     <atom:link href="https://jupaygon.com/en/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Skills: how to give your AI agent verified knowledge it does not have</title>
-      <link>https://jupaygon.com/en/posts/ai-skills-easyadmin5/</link>
+      <link>https://jupaygon.com/en/posts/2026-03-29/ai-skills/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/ai-skills-easyadmin5/</guid>
+      <guid>https://jupaygon.com/en/posts/2026-03-29/ai-skills/</guid>
       <description>Your AI agent does not know what changed in the latest version of the technologies you use. AI Skills fix that: structured, verified documentation optimized for machines. Here is how we build and use them.</description>
     </item>
     <item>
       <title>AI-Augmented Development: my real experience working with an AI agent</title>
-      <link>https://jupaygon.com/en/posts/ai-augmented-development/</link>
+      <link>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/ai-augmented-development/</guid>
+      <guid>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</guid>
       <description>I have been working with an AI agent as a development collaborator for months. It is not autocomplete. It is another developer on the team. This is what I have learned.</description>
     </item>
   </channel>
