@@ -1,6 +1,9 @@
 ---
 title: 'AI Skills: cómo darle a tu agente IA conocimiento verificado que no tiene'
 date: '2026-03-29'
+slug: 'ai-skills'
+aliases:
+  - /es/posts/ai-skills-easyadmin5/
 draft: false
 description: 'Tu agente IA no sabe lo que cambió en la última versión de las tecnologías que usas. Los AI Skills resuelven eso: documentación estructurada, verificada y optimizada para máquinas. Así los creamos y así los usamos.'
 tags: ['ai', 'easyadmin', 'symfony', 'claude-code', 'skills']
