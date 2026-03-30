@@ -8,9 +8,9 @@ draft: false
 description: 'Tu agente IA no sabe lo que cambió en la última versión de las tecnologías que usas. Los AI Skills resuelven eso: documentación estructurada, verificada y optimizada para máquinas. Así los creamos y así los usamos.'
 tags: ['ai', 'easyadmin', 'symfony', 'claude-code', 'skills']
 cover:
-  image: 'cover.jpg'
+  image: '/en/posts/2026-03-29/ai-skills/cover.jpg'
   alt: 'AI Skills for coding agents'
-  relative: true
+  relative: false
 ShowToc: true
 TocOpen: false
 ---
