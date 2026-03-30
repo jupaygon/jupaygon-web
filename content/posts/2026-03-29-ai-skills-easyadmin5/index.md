@@ -1,6 +1,9 @@
 ---
 title: 'AI Skills: how to give your AI agent verified knowledge it does not have'
 date: '2026-03-29'
+slug: 'ai-skills'
+aliases:
+  - /posts/ai-skills-easyadmin5/
 draft: false
 description: 'Your AI agent does not know what changed in the latest version of the technologies you use. AI Skills fix that: structured, verified documentation optimized for machines. Here is how we build and use them.'
 tags: ['ai', 'easyadmin', 'symfony', 'claude-code', 'skills']

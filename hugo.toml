@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = true
 
 enableRobotsTXT = true
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 buildExpired = false
 
 [minify]
@@ -127,6 +127,9 @@ buildExpired = false
       name = 'Buscar'
       url = '/es/search/'
       weight = 20
+
+[permalinks]
+  posts = '/posts/:year-:month-:day/:slug/'
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
