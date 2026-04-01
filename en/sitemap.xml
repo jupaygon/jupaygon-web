@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jupaygon.com/en/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/ai/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -26,6 +26,84 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/tags/ai/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/posts/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/claude-code/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/claude-code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/claude-code/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/development/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/development/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/productivity/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/productivity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/productivity/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-03-29/ai-skills/</loc>
@@ -39,32 +117,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/posts/2026-03-29/ai-skills/"
-                />
-  </url><url>
-    <loc>https://jupaygon.com/en/posts/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/posts/"
-                />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/claude-code/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/claude-code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/claude-code/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/easyadmin/</loc>
@@ -106,19 +158,6 @@
                 href="https://jupaygon.com/en/tags/symfony/"
                 />
   </url><url>
-    <loc>https://jupaygon.com/en/tags/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/"
-                />
-  </url><url>
     <loc>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -130,32 +169,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/"
-                />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/development/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/development/"
-                />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/productivity/</loc>
-    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/productivity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/productivity/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/about/</loc>

@@ -12,20 +12,34 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai</title>
       <link>https://jupaygon.com/es/tags/ai/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://jupaygon.com/es/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Claude-Code</title>
       <link>https://jupaygon.com/es/tags/claude-code/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://jupaygon.com/es/tags/claude-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://jupaygon.com/es/tags/development/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://jupaygon.com/es/tags/productivity/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
@@ -47,20 +61,6 @@
       <link>https://jupaygon.com/es/tags/symfony/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://jupaygon.com/es/tags/symfony/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Development</title>
-      <link>https://jupaygon.com/es/tags/development/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/tags/development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Productivity</title>
-      <link>https://jupaygon.com/es/tags/productivity/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/tags/productivity/</guid>
       <description></description>
     </item>
   </channel>

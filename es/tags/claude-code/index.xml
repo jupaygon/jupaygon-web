@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dentro de Claude Code: 10 cosas que descubrí analizando su código fuente</title>
+      <link>https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/</guid>
+      <description>El source code de Claude Code se filtró brevemente y alguien hizo un port público. Lo analicé a fondo. Estas son las cosas más útiles que aprendí para sacarle más partido como developer.</description>
+    </item>
     <item>
       <title>AI Skills: cómo darle a tu agente IA conocimiento verificado que no tiene</title>
       <link>https://jupaygon.com/es/posts/2026-03-29/ai-skills/</link>

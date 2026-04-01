@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/en/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside Claude Code: 10 things I found analyzing its source code</title>
+      <link>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</guid>
+      <description>The Claude Code source was briefly leaked and someone made a public port. I analyzed it in depth. These are the most useful things I learned to get more out of it as a developer.</description>
+    </item>
     <item>
       <title>AI-Augmented Development: my real experience working with an AI agent</title>
       <link>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</link>
