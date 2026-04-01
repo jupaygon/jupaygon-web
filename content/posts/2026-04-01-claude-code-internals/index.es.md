@@ -6,9 +6,9 @@ draft: false
 description: 'El source code de Claude Code se filtró brevemente y alguien hizo un port público. Lo hemos analizado a fondo. Estas son algunas cosas útiles para sacarle más partido como developer.'
 tags: ['ai', 'claude-code', 'productivity', 'development']
 cover:
-  image: 'cover.png'
+  image: '/en/posts/2026-04-01/claude-code-internals/cover.png'
   alt: 'Claude Code internals analysis'
-  relative: true
+  relative: false
 ShowToc: true
 TocOpen: false
 ---
