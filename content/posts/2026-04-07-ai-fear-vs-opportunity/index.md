@@ -1,6 +1,6 @@
 ---
 title: 'AI will not replace you. But it will multiply you — careful with being zero'
-date: '2026-04-02'
+date: '2026-04-07'
 slug: 'ai-fear-vs-opportunity'
 draft: false
 description: 'Developers fear AI will take their jobs. History says otherwise. AI is the next abstraction layer — and it multiplies whoever uses it. But you cannot multiply by zero.'

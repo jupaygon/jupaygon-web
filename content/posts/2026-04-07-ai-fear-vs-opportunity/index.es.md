@@ -1,12 +1,12 @@
 ---
 title: 'La IA no te va a reemplazar. Pero te multiplica — cuidado con multiplicarte por cero'
-date: '2026-04-02'
+date: '2026-04-07'
 slug: 'ai-fear-vs-opportunity'
 draft: false
 description: 'Los developers tienen miedo de que la IA les quite el trabajo. La historia dice lo contrario. La IA es la siguiente capa de abstracción — y multiplica a quien la usa. Pero no puedes multiplicar por cero.'
 tags: ['ai', 'development', 'opinion', 'career']
 cover:
-  image: '/en/posts/2026-04-02/ai-fear-vs-opportunity/cover.png'
+  image: '/en/posts/2026-04-07/ai-fear-vs-opportunity/cover.png'
   alt: 'Developer enfrentando miedos y oportunidades con la IA'
   relative: false
 ShowToc: true
