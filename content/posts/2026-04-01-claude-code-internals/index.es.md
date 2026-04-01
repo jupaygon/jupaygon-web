@@ -1,9 +1,9 @@
 ---
-title: 'Dentro de Claude Code: 10 cosas que descubrí analizando su código fuente'
+title: 'Dentro de Claude Code: 10 cosas interesantes analizando su código fuente'
 date: '2026-04-01'
 slug: 'claude-code-internals'
 draft: false
-description: 'El source code de Claude Code se filtró brevemente y alguien hizo un port público. Lo analicé a fondo. Estas son las cosas más útiles que aprendí para sacarle más partido como developer.'
+description: 'El source code de Claude Code se filtró brevemente y alguien hizo un port público. Lo hemos analizado a fondo. Estas son algunas cosas útiles para sacarle más partido como developer.'
 tags: ['ai', 'claude-code', 'productivity', 'development']
 cover:
   image: 'cover.png'
@@ -15,7 +15,9 @@ TocOpen: false
 
 El 31 de marzo de 2026, el código fuente de Claude Code quedó expuesto brevemente. Un developer coreano llamado <a href="https://github.com/instructkr" target="_blank">Sigrid Jin</a> hizo un port clean-room a Python y Rust antes de que Anthropic lo retirara. El repositorio <a href="https://github.com/instructkr/claw-code" target="_blank">claw-code</a> no contiene el código original, pero sí snapshots, metadatos de subsistemas, y un port parcial del runtime que revela cómo funciona Claude Code por dentro.
 
-Entender cómo funciona tu herramienta te permite usarla mejor, así que Jarvis y yo la hemos revisado a fondo. Aquí van las 10 cosas más útiles que hemos encontrado, algunas ya eran obvias, pero viene bien incluirlas en este resumen.
+Entender cómo funciona tu herramienta te permite usarla mejor, así que interesaba revisarlo a fondo. Por razones obvias yo tardaría varios años en revisar todas las líneas de código, pero para eso tenemos a Jarvis, que se puso manos a la obra y me abstrajo de las primeras 50K horas de trabajo ;-)
+
+Algunas de las cosas que hemos encontrado ya eran más o menos obvias, depende de cada uno hasta dónde haya leído o investigado, así que espero comprensión de los lectores más avanzados. Para el resto, creo que va bien incluirlas en este resumen.
 
 ## 1. CLAUDE.md es recursivo: usa una jerarquía de instrucciones
 
