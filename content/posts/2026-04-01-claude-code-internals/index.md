@@ -6,7 +6,7 @@ draft: false
 description: 'The Claude Code source was briefly leaked and someone made a public port. We analyzed it in depth. Here are some useful things to get more out of it as a developer.'
 tags: ['ai', 'claude-code', 'productivity', 'development']
 cover:
-  image: 'cover.png'
+  image: 'cover.jpg'
   alt: 'Claude Code internals analysis'
   relative: true
 ShowToc: true
