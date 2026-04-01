@@ -15,7 +15,7 @@ TocOpen: false
 
 On March 31, 2026, the Claude Code source code was briefly exposed. A Korean developer named <a href="https://github.com/instructkr" target="_blank">Sigrid Jin</a> made a clean-room port to Python and Rust before Anthropic took it down. The <a href="https://github.com/instructkr/claw-code" target="_blank">claw-code</a> repository does not contain the original code, but it does include snapshots, subsystem metadata, and a partial runtime port that reveals how Claude Code works under the hood.
 
-Understanding how your tool works lets you use it better, so it was worth digging into it thoroughly. For obvious reasons it would take me several years to review every line of code, but that is what Jarvis is for --- he got to work and abstracted away the first 50K hours of effort for me ;-)
+Understanding how your tool works lets you use it better, so it was worth digging into it thoroughly. For obvious reasons it would take me several years to review every line of code, but that is what <a href="https://github.com/jarvis-aidev" target="_blank">Jarvis</a> is for --- he got to work and abstracted away the first 50K hours of effort for me ;-)
 
 Some of the things we found were already more or less obvious, depending on how far each person has read or researched, so I hope the more advanced readers will bear with me. For the rest, I think it is worth including them in this summary.
 
