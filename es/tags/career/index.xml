@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Career on Code &amp; AI</title>
+    <link>https://jupaygon.com/es/tags/career/</link>
+    <description>Recent content in Career on Code &amp; AI</description>
+    <image>
+      <title>Code &amp; AI</title>
+      <url>https://jupaygon.com/images/og-default.jpg</url>
+      <link>https://jupaygon.com/images/og-default.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>2026 Juanjo Payá</copyright>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jupaygon.com/es/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La IA no te va a reemplazar. Pero te multiplica — cuidado con multiplicarte por cero</title>
+      <link>https://jupaygon.com/es/posts/2026-04-07/ai-fear-vs-opportunity/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-04-07/ai-fear-vs-opportunity/</guid>
+      <description>Los developers tienen miedo de que la IA les quite el trabajo. La historia dice lo contrario. La IA es la siguiente capa de abstracción — y multiplica a quien la usa. Pero no puedes multiplicar por cero.</description>
+    </item>
+  </channel>
+</rss>

@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI will not replace you. But it will multiply you — careful with being zero</title>
+      <link>https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/</guid>
+      <description>Developers fear AI will take their jobs. History says otherwise. AI is the next abstraction layer — and it multiplies whoever uses it. But you cannot multiply by zero.</description>
+    </item>
     <item>
       <title>Inside Claude Code: 10 interesting things from analyzing its source code</title>
       <link>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</link>

@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La IA no te va a reemplazar. Pero te multiplica — cuidado con multiplicarte por cero</title>
+      <link>https://jupaygon.com/es/posts/2026-04-07/ai-fear-vs-opportunity/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-04-07/ai-fear-vs-opportunity/</guid>
+      <description>Los developers tienen miedo de que la IA les quite el trabajo. La historia dice lo contrario. La IA es la siguiente capa de abstracción — y multiplica a quien la usa. Pero no puedes multiplicar por cero.</description>
+    </item>
     <item>
       <title>Dentro de Claude Code: 10 cosas interesantes analizando su código fuente</title>
       <link>https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/</link>
