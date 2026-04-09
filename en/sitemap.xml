@@ -222,6 +222,18 @@
                 href="https://jupaygon.com/en/about/"
                 />
   </url><url>
+    <loc>https://jupaygon.com/en/card/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/card/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/card/"
+                />
+  </url><url>
     <loc>https://jupaygon.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
