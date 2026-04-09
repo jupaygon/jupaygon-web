@@ -43,3 +43,4 @@ On top of that, this workflow has broadened my reach across stacks. Programming 
 - GitHub: <a href="https://github.com/jupaygon" target="_blank">jupaygon</a>
 - LinkedIn: <a href="https://linkedin.com/in/jupaygon" target="_blank">jupaygon</a>
 - X: <a href="https://x.com/jupaygon" target="_blank">jupaygon</a>
+- <a href="/card/">My digital card</a>

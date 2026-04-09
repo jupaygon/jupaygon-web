@@ -110,3 +110,86 @@
     background: var(--accent);
     color: var(--theme);
 }
+
+/* ── Card page ──────────────────────────────────────────────── */
+
+.card-page {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 1rem;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 360px;
+    width: 100%;
+    text-align: center;
+}
+
+.card-photo img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--accent);
+}
+
+.card-name {
+    margin: 1.2rem 0 0.2rem;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.card-role {
+    margin: 0 0 1.5rem;
+    color: var(--secondary);
+    font-size: 0.95rem;
+}
+
+.card-links {
+    display: flex;
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.card-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    color: var(--primary);
+    transition: all 0.2s ease;
+}
+
+.card-link:hover {
+    background: var(--accent);
+    color: var(--theme);
+    border-color: var(--accent);
+}
+
+.card-link svg {
+    width: 22px;
+    height: 22px;
+}
+
+.card-qr {
+    margin-bottom: 0.5rem;
+}
+
+.card-qr canvas {
+    border-radius: 8px;
+    max-width: 200px;
+    height: auto;
+}
+
+.card-qr-label {
+    color: var(--secondary);
+    font-size: 0.8rem;
+    margin: 0;
+}
