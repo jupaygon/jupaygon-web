@@ -116,16 +116,25 @@
 .card-page {
     display: flex;
     justify-content: center;
-    padding: 2rem 1rem;
+    padding: 3rem 1rem;
 }
 
 .card-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 360px;
+    max-width: 380px;
     width: 100%;
     text-align: center;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 2.5rem 2rem 2rem;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+}
+
+.dark .card-container {
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
 }
 
 .card-photo img {
@@ -163,7 +172,7 @@
     border-radius: 50%;
     background: var(--entry);
     border: 1px solid var(--border);
-    color: var(--primary);
+    color: var(--accent);
     transition: all 0.2s ease;
 }
 
