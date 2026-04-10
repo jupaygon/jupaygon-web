@@ -18,7 +18,7 @@ Actualmente soy Co-Fundador y CTO en <a href="https://zeronetit.com" target="_bl
 
 <a href="https://zeronetit.com" target="_blank">ZeroNet</a> ayuda a reducir el consumo energético de las redes IT. Es un problema real: las infraestructuras de red consumen mucho más de lo necesario, y la mayoría ni siquiera lo sabe. Combinamos monitorización inteligente para mejorar la eficiencia de las redes. Incluimos data centers, dispositivos finales, detección de shadow AI agents y alerta de ciberamenazas (basados especialmente en patrones de consumo energético). Más información: <a href="https://zeronetit.com" target="_blank">zeronetit.com</a>.
 
-En los últimos tiempos he incorporado la IA como parte central de mi flujo de trabajo. No como autocompletado de código, sino como **AI-Augmented Development** --- agentes IA que operan como colaboradores reales: crean branches, escriben código, abren pull requests y responden a code review.
+He incorporado la IA como parte central de mi flujo de trabajo. No como autocompletado de código, sino como **AI-Augmented Development** --- agentes IA que operan como colaboradores reales: crean branches, escriben código, abren pull requests y responden a code review.
 
 He decidido compartir este nuevo enfoque y colaborar con la comunidad con este blog, y con herramientas open source que iré añadiendo a <a href="https://github.com/jupaygon" target="_blank">mi cuenta de GitHub</a>, algunas relacionadas directamente con la IA, otras simplemente desarrolladas con su ayuda. No tengo grandes aspiranciones, si solo un developer se aprovecha de estas experiencias, me daré por muy satisfecho :-).
 

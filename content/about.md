@@ -18,7 +18,7 @@ Currently I'm Co-Founder & CTO at <a href="https://zeronetit.com" target="_blank
 
 <a href="https://zeronetit.com" target="_blank">ZeroNet</a> helps reduce the energy consumption of IT networks. It's a real problem: network infrastructures consume far more than they need to, and most don't even realize it. We combine intelligent monitoring to improve network efficiency. We cover data centers, end devices, shadow AI agent detection, and cyber threat alerting (based especially on energy consumption patterns). More info: <a href="https://zeronetit.com" target="_blank">zeronetit.com</a>.
 
-In recent times I've incorporated AI as a central part of my workflow. Not as code autocomplete, but as **AI-Augmented Development** --- AI agents that operate as real collaborators: creating branches, writing code, opening pull requests, and responding to code review.
+I've incorporated AI as a central part of my workflow. Not as code autocomplete, but as **AI-Augmented Development** --- AI agents that operate as real collaborators: creating branches, writing code, opening pull requests, and responding to code review.
 
 I've decided to share this approach and contribute to the community through this blog, and with open source tools that I keep adding to <a href="https://github.com/jupaygon" target="_blank">my GitHub account</a>, some directly related to AI, others simply built with its help. I don't have grand aspirations --- if just one developer benefits from these experiences, I'll be more than satisfied :-).
 
