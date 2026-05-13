@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s already decided isn&#39;t up for debate: determinism in AI workflows</title>
+      <link>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</guid>
+      <description>An AI agent is non-deterministic by design. To make it reliable, you take the decisions that are already made out of the LLM and crystallise them into hooks, scripts and tables. What stays inside the model is bounded execution; the human is who decides.</description>
+    </item>
     <item>
       <title>Context window: when your AI agent starts forgetting</title>
       <link>https://jupaygon.com/en/posts/2026-04-14/context-window/</link>

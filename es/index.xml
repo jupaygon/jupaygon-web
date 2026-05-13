@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que ya está decidido no se pregunta: determinismo en flujos de trabajo con IA</title>
+      <link>https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/</guid>
+      <description>Un agente IA es no-determinista por construcción. Para que sea fiable, hay que sacar las decisiones ya tomadas del LLM y cristalizarlas en hooks, scripts y tablas. Lo que queda dentro del modelo es ejecución acotada; lo que decide es el humano.</description>
+    </item>
     <item>
       <title>Context window: cuando tu agente IA empieza a olvidar</title>
       <link>https://jupaygon.com/es/posts/2026-04-14/context-window/</link>

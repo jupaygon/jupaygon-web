@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jupaygon.com/es/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/es/tags/ai/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/es/posts/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/es/tags/claude-code/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +52,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jupaygon.com/es/tags/claude-code/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/es/tags/development/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/development/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/es/tags/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/es/tags/workflow/</loc>
+    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/workflow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/workflow/"
                 />
   </url><url>
     <loc>https://jupaygon.com/es/posts/2026-04-14/context-window/</loc>
@@ -67,19 +119,6 @@
                 href="https://jupaygon.com/es/posts/2026-04-14/context-window/"
                 />
   </url><url>
-    <loc>https://jupaygon.com/es/tags/development/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/development/"
-                />
-  </url><url>
     <loc>https://jupaygon.com/es/tags/productivity/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,19 +130,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jupaygon.com/es/tags/productivity/"
-                />
-  </url><url>
-    <loc>https://jupaygon.com/es/tags/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/"
                 />
   </url><url>
     <loc>https://jupaygon.com/es/tags/career/</loc>

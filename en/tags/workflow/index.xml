@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Workflow on Code &amp; AI</title>
+    <link>https://jupaygon.com/en/tags/workflow/</link>
+    <description>Recent content in Workflow on Code &amp; AI</description>
+    <image>
+      <title>Code &amp; AI</title>
+      <url>https://jupaygon.com/images/og-default.jpg</url>
+      <link>https://jupaygon.com/images/og-default.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2026 Juanjo Payá</copyright>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jupaygon.com/en/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s already decided isn&#39;t up for debate: determinism in AI workflows</title>
+      <link>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</guid>
+      <description>An AI agent is non-deterministic by design. To make it reliable, you take the decisions that are already made out of the LLM and crystallise them into hooks, scripts and tables. What stays inside the model is bounded execution; the human is who decides.</description>
+    </item>
+  </channel>
+</rss>
