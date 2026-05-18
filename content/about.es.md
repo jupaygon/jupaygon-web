@@ -10,7 +10,7 @@ ShowReadingTime: false
 
 <img src="/images/juanjo.png" alt="Juanjo Payá" style="width: 130px; border-radius: 50%; float: left; margin: 0 1.5rem 1rem 0;">
 
-Soy **Senior Software Engineer** desarrollando software desde 2003. He sido CTO y Co-Fundador durante la mayor parte de mi carrera, liderando equipos técnicos y diseñando sistemas de alta concurrencia y rendimiento exigente.
+Desarrollo software desde 2003. He sido CTO y Co-Fundador durante la mayor parte de mi carrera, liderando equipos técnicos y diseñando sistemas de alta concurrencia y rendimiento exigente.
 
 Actualmente soy Co-Fundador y CTO en <a href="https://zeronetit.com" target="_blank">Zeronet IT</a>, donde trabajamos en mejorar la eficiencia energética de las redes IT, y donde hemos incorporado la IA como parte central de nuestro flujo de trabajo, y también del producto final.
 
