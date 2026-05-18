@@ -10,7 +10,7 @@ ShowReadingTime: false
 
 <img src="/images/juanjo.png" alt="Juanjo Payá" style="width: 130px; border-radius: 50%; float: left; margin: 0 1.5rem 1rem 0;">
 
-I'm a **Senior Software Engineer** building software since 2003. I've been a CTO and Co-Founder for most of my career, leading technical teams and architecting high-concurrency, performance-critical systems.
+I've been building software since 2003. I've been a CTO and Co-Founder for most of my career, leading technical teams and architecting high-concurrency, performance-critical systems.
 
 Currently I'm Co-Founder & CTO at <a href="https://zeronetit.com" target="_blank">Zeronet IT</a>, where we work on improving the energy efficiency of IT networks, and where we've integrated AI as a core part of both our workflow and the final product.
 
