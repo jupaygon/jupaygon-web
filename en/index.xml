@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loop engineering: designing the system that prompts the agent</title>
+      <link>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</guid>
+      <description>Addy Osmani and Boris Cherny gave it a name: you stop prompting the agent and start designing the loop that prompts it. Here are their six pieces, which I&amp;#39;ve spent months trying out in my own setup, plus some critical small print.</description>
+    </item>
     <item>
       <title>What&#39;s already decided isn&#39;t up for debate: determinism in AI workflows</title>
       <link>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</link>

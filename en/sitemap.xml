@@ -3,298 +3,324 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jupaygon.com/en/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/"
-                />
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/"
                 />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/ai/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jupaygon.com/es/tags/ai/"
+                href="https://jupaygon.com/es/"
                 />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/agents/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/agents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/agents/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/ai/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/tags/ai/"
                 />
-  </url><url>
-    <loc>https://jupaygon.com/en/posts/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jupaygon.com/es/posts/"
+                href="https://jupaygon.com/es/tags/ai/"
                 />
+  </url><url>
+    <loc>https://jupaygon.com/en/posts/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/posts/"
                 />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/claude-code/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jupaygon.com/es/tags/claude-code/"
+                href="https://jupaygon.com/es/posts/"
                 />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/claude-code/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/tags/claude-code/"
                 />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/development/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jupaygon.com/es/tags/development/"
+                href="https://jupaygon.com/es/tags/claude-code/"
                 />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/development/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/tags/development/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/development/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-06-17/loop-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-06-17/loop-engineering/"
+                />
   </url><url>
     <loc>https://jupaygon.com/en/tags/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://jupaygon.com/es/tags/"
                 />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/workflow/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jupaygon.com/en/tags/"
+                href="https://jupaygon.com/en/tags/workflow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/workflow/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/"
                 />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/workflow/</loc>
-    <lastmod>2026-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jupaygon.com/es/tags/workflow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/workflow/"
+                href="https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-04-14/context-window/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/2026-04-14/context-window/"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-04-14/context-window/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/posts/2026-04-14/context-window/"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-04-14/context-window/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/productivity/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/productivity/"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/productivity/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/productivity/"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/productivity/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/</loc>
     <lastmod>2026-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/2026-04-07/ai-fear-vs-opportunity/"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-04-07/ai-fear-vs-opportunity/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/career/</loc>
     <lastmod>2026-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/career/"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/career/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/career/"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/career/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/opinion/</loc>
     <lastmod>2026-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/opinion/"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/opinion/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/opinion/"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/opinion/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-03-29/ai-skills/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/2026-03-29/ai-skills/"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-03-29/ai-skills/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/posts/2026-03-29/ai-skills/"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-03-29/ai-skills/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/easyadmin/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/easyadmin/"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/easyadmin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/easyadmin/"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/easyadmin/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/skills/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/skills/"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/skills/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/skills/"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/skills/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/symfony/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/symfony/"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/symfony/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/symfony/"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/symfony/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</loc>
     <lastmod>2026-03-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/posts/2026-03-26/ai-augmented-development/"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-03-26/ai-augmented-development/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/about/"
+                hreflang="en"
+                href="https://jupaygon.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/about/"
+                hreflang="es"
+                href="https://jupaygon.com/es/about/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/card/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/card/"
+                hreflang="en"
+                href="https://jupaygon.com/en/card/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/card/"
+                hreflang="es"
+                href="https://jupaygon.com/es/card/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/categories/"
+                hreflang="en"
+                href="https://jupaygon.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/categories/"
+                hreflang="es"
+                href="https://jupaygon.com/es/categories/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/search/"
+                hreflang="en"
+                href="https://jupaygon.com/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/search/"
+                hreflang="es"
+                href="https://jupaygon.com/es/search/"
                 />
   </url>
 </urlset>

@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loop engineering: diseñar el sistema que promptea al agente</title>
+      <link>https://jupaygon.com/es/posts/2026-06-17/loop-engineering/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-06-17/loop-engineering/</guid>
+      <description>Addy Osmani y Boris Cherny le han puesto nombre: dejas de promptear al agente y empiezas a diseñar el bucle que lo promptea. Aquí están sus seis piezas, que llevo meses probando en mi propio setup, y también algo de factura crítica.</description>
+    </item>
     <item>
       <title>Lo que ya está decidido no se pregunta: determinismo en flujos de trabajo con IA</title>
       <link>https://jupaygon.com/es/posts/2026-05-13/determinism-in-ai-workflows/</link>
