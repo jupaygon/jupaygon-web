@@ -3,7 +3,7 @@ title: 'Loop engineering: designing the system that prompts the agent'
 date: '2026-06-17'
 slug: 'loop-engineering'
 draft: false
-description: "Addy Osmani and Boris Cherny gave a name to something I'd been building for months: you stop prompting the agent and start designing the loop that prompts it. Here are its six pieces mapped onto my own setup, and the bill nobody puts on the slide."
+description: "Addy Osmani and Boris Cherny gave it a name: you stop prompting the agent and start designing the loop that prompts it. Here are their six pieces, which I've spent months trying out in my own setup, plus some critical small print."
 tags: ['ai', 'development', 'claude-code', 'workflow', 'agents']
 cover:
   image: 'cover.jpg'
@@ -13,11 +13,11 @@ ShowToc: true
 TocOpen: false
 ---
 
-In June 2026 Addy Osmani and Boris Cherny put a name on something a few of us had already been doing quietly for months: **loop engineering**.
+In June 2026 Addy Osmani and Boris Cherny put a name on something that isn't new (by the current pace of "new", at least): **loop engineering**. Osmani is an engineering leader at Google Chrome and a prolific writer on web development; Cherny is one of the creators of Claude Code. They laid it out in [a thread on X](https://x.com/addyosmani/status/2064127981161959567) and a couple of essays.
 
 The one-liner that captures it is Cherny's: "I don't prompt Claude anymore. I have loops running that prompt Claude." The shift is small to say and large to live with. You stop being the person who holds the tool through every turn, and you start designing the system that finds the work, hands it out, checks it, writes down what's done, and decides the next thing.
 
-I'd been building exactly that without the label. So this post is two things at once: a map of the six pieces Osmani lays out, each one wired to my real setup, and an honest note about the part nobody puts on the slide: the bill.
+They did that hard part: seeing the shape clearly enough to name it. I've spent months trying those six pieces in my own setup. So this post is two things at once: a map of the pieces they lay out, each one wired to my real setup, and an honest note about the bill.
 
 ## One floor above the harness
 
@@ -25,11 +25,11 @@ I [wrote before](/en/posts/2026-05-13/determinism-in-ai-workflows/) about pullin
 
 Loop engineering sits one floor above that. The harness answers "how does one agent behave safely". The loop answers "who starts the agent, how many run at once, what happens when one finishes, and how the next piece of work gets chosen". The harness is the safety rails. The loop is the thing driving on the road.
 
-Osmani breaks the loop into six pieces. I'll take them in order.
+Osmani breaks the loop into six pieces. Let's take them one by one.
 
 ## 1. Automations: the heartbeat
 
-A loop needs something that fires without me. Scheduled jobs and watchers that discover work and surface it instead of waiting for me to type.
+A loop needs something that fires without you. Scheduled jobs and watchers that discover work and surface it instead of waiting for you to type.
 
 In my case that's two layers. Hooks react to events (a PR opened kicks off a watcher that polls until CI is green or a review lands). Scheduled runs go looking for work on a cadence: pick the next unchecked row from the roadmap, open the tracked task, start the branch. The point is that the first prompt of a session isn't always mine. Often the system wrote it.
 
@@ -39,19 +39,19 @@ This is the piece that feels like magic the first week and like a liability the 
 
 The moment more than one agent is alive, they fight over files. Git worktrees solve this cleanly: each agent gets its own checkout on its own branch, sharing history, never stepping on each other's working tree.
 
-It's a hard rule in my setup: nothing gets touched on `master`, every task starts with a branch and a worktree, and the bootstrap that prepares it is [a fixed recipe](/en/posts/2026-05-13/determinism-in-ai-workflows/) run by a cheap subagent. Parallelism stops being scary once isolation is the default instead of an afterthought.
+It has to be a hard rule in the setup: nothing gets touched on `master`, every task starts with a branch and a worktree, and the bootstrap that prepares it is [a fixed recipe](/en/posts/2026-05-13/determinism-in-ai-workflows/) run by a cheap subagent. Parallelism stops being scary once isolation is the default instead of an afterthought.
 
 ## 3. Skills: intent that survives the reset
 
 A skill is a folder with a `SKILL.md` that captures a convention, a build step, a piece of domain knowledge the agent would otherwise re-derive (badly) every cycle. Osmani calls the thing they prevent "intent debt": the cost of the model rediscovering, again and again, what you already decided.
 
-I keep a versioned set of them. One pins down the API surface of an admin framework that broke half its methods between major versions, so the agent stops guessing. Another encodes a technical-SEO checklist. They live in the repo, reviewed like code, because [that's what they are](/en/posts/2026-03-29/ai-skills-easyadmin5/): executable intent, not documentation that rots in a wiki.
+I keep a versioned set of them. One pins down the API surface of an admin framework that broke half its methods between major versions, so the agent stops guessing. Another encodes a technical-SEO checklist. They live in the agent's repo, reviewed like code, because [that's what they are](/en/posts/2026-03-29/ai-skills-easyadmin5/): executable intent, not documentation that rots in a wiki.
 
 ## 4. Connectors: the agent acts, it doesn't suggest
 
 Without connectors a loop is a very articulate intern who can only talk. With them it reads a PR, comments on it, transitions a ticket, resolves an alert, opens an issue. MCP servers are the wiring: GitHub, the issue tracker, the error monitor, the project board.
 
-This is the difference between "here's what I would do" and "done, here's the link". It's also where a [routing table](/en/posts/2026-05-13/determinism-in-ai-workflows/) earns its keep: the loop must reach a private PR through the GitHub connector, never through `curl`, or it loses identity, logging and auth handling in one shortcut.
+This is the difference between "here's what I would do" and "done, here's the link". It's also where a [routing table](/en/posts/2026-05-13/determinism-in-ai-workflows/) adds the most value: the loop must reach a private PR through the GitHub connector, never through `curl`, or it loses identity, logging and auth handling in one shortcut.
 
 ## 5. Sub-agents: separation of concerns
 
@@ -79,4 +79,4 @@ So the human doesn't leave the loop. The human moves to the two ends of it. At t
 
 Loop engineering is real, and it's a genuine step up from prompting turn by turn. I've had it running for months and I wouldn't go back.
 
-But the leverage cuts both ways. A well-designed loop multiplies a careful engineer. It also multiplies a careless one, faster. The design work, the part that's actually engineering, isn't wiring up the six pieces. It's deciding what the loop is allowed to do on its own, and keeping the one checkpoint that's still mine: shipping code I confirmed works, and understand.
+But the leverage cuts both ways. A well-designed loop multiplies a careful programmer. It also multiplies a careless one, faster. The design work, the part that's actually engineering, isn't wiring up the six pieces. It's deciding what the loop is allowed to do on its own, and keeping the one checkpoint that's still yours: shipping code you confirmed works, and understand.
