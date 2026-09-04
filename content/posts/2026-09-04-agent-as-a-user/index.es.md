@@ -27,9 +27,9 @@ La identidad va antes que los permisos. Una cuenta por agente y por host, con su
 
 Así que escribí un sudoers. Sólo verbos de diagnóstico: leer el journal, mirar el estado de una unidad, leer el buffer del kernel. Ningún restart, ningún stop, ningún dato. Muy razonable.
 
-Daba uid 0. Por tres caminos distintos.
+Daba uid 0. Por dos caminos que no tienen nada que ver entre sí.
 
-El primero: en sudoers, un comando declarado sin argumentos permite *todos* los argumentos. `journalctl`, `systemctl status` y `dmesg` entraban desnudos, y los tres paginan su salida con `less`. Desde `less`, `!sh` abre una shell. Bajo sudo, eso es una shell de root, conseguida a través de un permiso que yo había escrito como «que pueda leer los logs».
+El primero: en sudoers, un comando declarado sin argumentos permite *todos* los argumentos. `journalctl` y `systemctl status` entraban desnudos, y los dos paginan su salida con `less` por defecto. Desde `less`, `!sh` abre una shell. Bajo sudo, eso es una shell de root, conseguida a través de un permiso que yo había escrito como «que pueda leer los logs».
 
 El segundo: `openssl x509` suena a comando de inspección. También acepta `-out`, que escribe un fichero: cualquiera, incluido el sudoers que acababa de conceder el permiso.
 
@@ -45,7 +45,7 @@ El fallo tenía tres caras y las tres son el mismo error. Las claves de las opci
 
 Estaba enumerando las opciones peligrosas. Esa lista no es finita. La única versión que aguanta es la inversa: una opción pasa sólo si su clave está en la lista de las que *no pueden mover la conexión*, y `-F` se rechaza entero.
 
-El mismo guardián me enseñó otra cosa por su cuenta. Buscaba `-F` en cualquier parte de la línea, así que un `awk -F:` dentro del comando remoto lo disparaba. Una bandera pertenece a un programa, no a una cadena: ahora sólo lee los tokens entre `ssh` y el primer argumento que no es una opción, que es el host. Lo que viene después es la línea de comandos de otro.
+El mismo guardián me enseñó otra cosa por su cuenta. Buscaba `-F` en cualquier parte de la línea, así que un `awk -F:` dentro del comando remoto lo disparaba. Una bandera pertenece a un programa, no a una cadena: ahora sólo lee los tokens que son de ssh, caminando desde el `ssh` inicial hasta el host y saltándose el valor de las opciones que llevan uno, porque el `clave` de `-i clave` tampoco es el host. Lo que viene después del host es la línea de comandos de otro programa. La excepción es un `ssh` anidado, que abre su propia conexión y por eso también se le leen las opciones.
 
 ## El test que nunca ejecutó la forma peligrosa
 

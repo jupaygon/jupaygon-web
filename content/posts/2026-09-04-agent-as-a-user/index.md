@@ -27,9 +27,9 @@ Identity comes before permissions. One account per agent, per host, with its own
 
 So I wrote a sudoers file. Diagnostic verbs only: read the journal, check a unit's status, read the kernel ring buffer. No restarts, no stops, no data. Very reasonable.
 
-It granted uid 0. By three separate routes.
+It granted uid 0. By two unrelated routes.
 
-The first: in sudoers, a command listed with no arguments permits *all* arguments. `journalctl`, `systemctl status` and `dmesg` all went in bare, and all three page their output through `less`. From `less`, `!sh` opens a shell. Under sudo, that is a root shell, obtained through a permission I had written down as "let it read the logs".
+The first: in sudoers, a command listed with no arguments permits *all* arguments. `journalctl` and `systemctl status` both went in bare, and both page their output through `less` by default. From `less`, `!sh` opens a shell. Under sudo, that is a root shell, obtained through a permission I had written down as "let it read the logs".
 
 The second: `openssl x509` reads like an inspection command. It also accepts `-out`, which writes a file: any file, including the sudoers that had just granted the permission.
 
@@ -45,7 +45,7 @@ The failure had three faces and they are all the same mistake. SSH option keys a
 
 I was enumerating the dangerous options. There is no finite list of those. The only version that holds is inverted: an option passes only if its key is on the list of options that *cannot move the connection*, and `-F` is refused outright.
 
-The same guard taught me a second thing on its own. It searched for `-F` anywhere in the command line, so an `awk -F:` inside the remote command tripped it. A flag belongs to a program, not to a string: the guard now reads only the tokens between `ssh` and the first non-option argument, which is the host. What comes after is somebody else's command line.
+The same guard taught me a second thing on its own. It searched for `-F` anywhere in the command line, so an `awk -F:` inside the remote command tripped it. A flag belongs to a program, not to a string: the guard now reads only the tokens that ssh itself owns, walking from the leading `ssh` to the host and stepping over the value of any option that takes one, because `key` in `-i key` is not the host either. Everything past the host belongs to another program's command line. The exception is a nested `ssh`, which opens a connection of its own and therefore gets its options read too.
 
 ## The test that never ran the dangerous shape
 
