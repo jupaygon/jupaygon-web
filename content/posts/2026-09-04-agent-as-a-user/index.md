@@ -45,7 +45,7 @@ The failure had three faces and they are all the same mistake. SSH option keys a
 
 I was enumerating the dangerous options. There is no finite list of those. The only version that holds is inverted: an option passes only if its key is on the list of options that *cannot move the connection*, and `-F` is refused outright.
 
-The same guard taught me a second thing on its own. It searched for `-F` anywhere in the command line, so an `awk -F:` inside the remote command tripped it. A flag belongs to a program, not to a string: the guard now reads only the tokens that ssh itself owns, walking from the leading `ssh` to the host and stepping over the value of any option that takes one, because `key` in `-i key` is not the host either. Everything past the host belongs to another program's command line. The exception is a nested `ssh`, which opens a connection of its own and therefore gets its options read too.
+The same guard taught me a second thing on its own. It searched for `-F` anywhere in the command line, so an `awk -F:` inside the remote command tripped it. A flag belongs to a program, not to a string: the guard now reads only the tokens that ssh itself owns, walking from the leading `ssh` to the host and stepping over the value of any option that takes one, because `key` in `-i key` is not the host either. The attached form needs no special case: `-ikey` is a single token starting with a dash, so it never gets mistaken for a host. Everything past the host belongs to another program's command line. The exception is a nested `ssh`, which opens a connection of its own and therefore gets its options read too.
 
 ## The test that never ran the dangerous shape
 

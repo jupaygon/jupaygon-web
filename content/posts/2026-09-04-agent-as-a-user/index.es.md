@@ -45,7 +45,7 @@ El fallo tenía tres caras y las tres son el mismo error. Las claves de las opci
 
 Estaba enumerando las opciones peligrosas. Esa lista no es finita. La única versión que aguanta es la inversa: una opción pasa sólo si su clave está en la lista de las que *no pueden mover la conexión*, y `-F` se rechaza entero.
 
-El mismo guardián me enseñó otra cosa por su cuenta. Buscaba `-F` en cualquier parte de la línea, así que un `awk -F:` dentro del comando remoto lo disparaba. Una bandera pertenece a un programa, no a una cadena: ahora sólo lee los tokens que son de ssh, caminando desde el `ssh` inicial hasta el host y saltándose el valor de las opciones que llevan uno, porque el `clave` de `-i clave` tampoco es el host. Lo que viene después del host es la línea de comandos de otro programa. La excepción es un `ssh` anidado, que abre su propia conexión y por eso también se le leen las opciones.
+El mismo guardián me enseñó otra cosa por su cuenta. Buscaba `-F` en cualquier parte de la línea, así que un `awk -F:` dentro del comando remoto lo disparaba. Una bandera pertenece a un programa, no a una cadena: ahora sólo lee los tokens que son de ssh, caminando desde el `ssh` inicial hasta el host y saltándose el valor de las opciones que llevan uno, porque el `clave` de `-i clave` tampoco es el host. La forma pegada no necesita caso especial: `-iclave` es un solo token que empieza por guion, así que nunca se confunde con un host. Lo que viene después del host es la línea de comandos de otro programa. La excepción es un `ssh` anidado, que abre su propia conexión y por eso también se le leen las opciones.
 
 ## El test que nunca ejecutó la forma peligrosa
 
