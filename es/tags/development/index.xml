@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/es/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los agentes como usuarios de la infraestructura</title>
+      <link>https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/</link>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/</guid>
+      <description>Notas de revisar qué podían hacer de verdad mis agentes en mis máquinas: el sudoers que daba root, la allowlist de SSH que permitía saltar a cualquier sitio, y otras tres cosas que daba por buenas.</description>
+    </item>
     <item>
       <title>Loop engineering: diseñar el sistema que promptea al agente</title>
       <link>https://jupaygon.com/es/posts/2026-06-17/loop-engineering/</link>

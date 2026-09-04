@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jupaygon.com/en/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/agents/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +28,21 @@
                 href="https://jupaygon.com/es/tags/agents/"
                 />
   </url><url>
+    <loc>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</loc>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/"
+                />
+  </url><url>
     <loc>https://jupaygon.com/en/tags/ai/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +55,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +68,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/claude-code/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +81,7 @@
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/development/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,6 +91,32 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jupaygon.com/es/tags/development/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/security/</loc>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/security/"
+                />
+  </url><url>
+    <loc>https://jupaygon.com/en/tags/</loc>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jupaygon.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jupaygon.com/es/tags/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</loc>
@@ -91,19 +130,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jupaygon.com/es/posts/2026-06-17/loop-engineering/"
-                />
-  </url><url>
-    <loc>https://jupaygon.com/en/tags/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jupaygon.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jupaygon.com/es/tags/"
                 />
   </url><url>
     <loc>https://jupaygon.com/en/tags/workflow/</loc>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Agents on Code &amp; AI</title>
-    <link>https://jupaygon.com/es/tags/agents/</link>
-    <description>Recent content in Agents on Code &amp; AI</description>
+    <title>Security on Code &amp; AI</title>
+    <link>https://jupaygon.com/es/tags/security/</link>
+    <description>Recent content in Security on Code &amp; AI</description>
     <image>
       <title>Code &amp; AI</title>
       <url>https://jupaygon.com/images/og-default.jpg</url>
@@ -13,20 +13,13 @@
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
     <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jupaygon.com/es/tags/agents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jupaygon.com/es/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Los agentes como usuarios de la infraestructura</title>
       <link>https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/</guid>
       <description>Notas de revisar qué podían hacer de verdad mis agentes en mis máquinas: el sudoers que daba root, la allowlist de SSH que permitía saltar a cualquier sitio, y otras tres cosas que daba por buenas.</description>
-    </item>
-    <item>
-      <title>Loop engineering: diseñar el sistema que promptea al agente</title>
-      <link>https://jupaygon.com/es/posts/2026-06-17/loop-engineering/</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/posts/2026-06-17/loop-engineering/</guid>
-      <description>Addy Osmani y Boris Cherny le han puesto nombre: dejas de promptear al agente y empiezas a diseñar el bucle que lo promptea. Aquí están sus seis piezas, que llevo meses probando en mi propio setup, y también algo de factura crítica.</description>
     </item>
   </channel>
 </rss>

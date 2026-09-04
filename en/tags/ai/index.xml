@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jupaygon.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents as users of the infrastructure</title>
+      <link>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</link>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</guid>
+      <description>Notes from auditing what my agents were actually allowed to do on my machines: the sudoers that granted root, the SSH allowlist that let them hop anywhere, and three other things I had assumed were fine.</description>
+    </item>
     <item>
       <title>Loop engineering: designing the system that prompts the agent</title>
       <link>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</link>
