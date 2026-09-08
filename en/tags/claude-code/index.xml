@@ -19,7 +19,7 @@
       <link>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</guid>
-      <description>Notes from auditing what my agents were actually allowed to do on my machines: the sudoers that granted root, the SSH allowlist that let them hop anywhere, and three other things I had assumed were fine.</description>
+      <description>What your agents actually do on your machines, if you let them. Watch out for the sudoers that grants root, the SSH allowlists that let them hop anywhere, and other hazards of trusting them too much.</description>
     </item>
     <item>
       <title>Loop engineering: designing the system that prompts the agent</title>
