@@ -1,4 +1,4 @@
-baseURL = 'https://jupaygon.com/'
+baseURL = 'https://jupaygon.dev/'
 title = 'Code & AI'
 theme = 'PaperMod'
 paginate = 10

@@ -1,4 +1,4 @@
-# Code & AI — jupaygon.com
+# Code & AI — jupaygon.dev
 
 > Personal blog by Juanjo Payá, Senior Software Engineer building software since 2003.
 
@@ -29,10 +29,10 @@ This is a technical blog focused on AI-Augmented Development — using AI agents
 
 ## Key Pages
 
-- Home (EN): https://jupaygon.com/en/
-- Home (ES): https://jupaygon.com/es/
-- About (EN): https://jupaygon.com/en/about/
-- About (ES): https://jupaygon.com/es/about/
+- Home (EN): https://jupaygon.dev/en/
+- Home (ES): https://jupaygon.dev/es/
+- About (EN): https://jupaygon.dev/en/about/
+- About (ES): https://jupaygon.dev/es/about/
 
 ## Topics
 
