@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ai on Code &amp; AI</title>
-    <link>https://jupaygon.com/en/tags/ai/</link>
+    <link>https://jupaygon.dev/en/tags/ai/</link>
     <description>Recent content in Ai on Code &amp; AI</description>
     <image>
       <title>Code &amp; AI</title>
-      <url>https://jupaygon.com/images/og-default.jpg</url>
-      <link>https://jupaygon.com/images/og-default.jpg</link>
+      <url>https://jupaygon.dev/images/og-default.jpg</url>
+      <link>https://jupaygon.dev/images/og-default.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2026 Juanjo Payá</copyright>
     <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jupaygon.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jupaygon.dev/en/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agents as users of the infrastructure</title>
-      <link>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</link>
+      <link>https://jupaygon.dev/en/posts/2026-09-04/agent-as-a-user/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-09-04/agent-as-a-user/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-09-04/agent-as-a-user/</guid>
       <description>What your agents actually do on your machines, if you let them. Watch out for the sudoers that grants root, the SSH allowlists that let them hop anywhere, and other hazards of trusting them too much.</description>
     </item>
     <item>
       <title>Loop engineering: designing the system that prompts the agent</title>
-      <link>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</link>
+      <link>https://jupaygon.dev/en/posts/2026-06-17/loop-engineering/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-06-17/loop-engineering/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-06-17/loop-engineering/</guid>
       <description>Addy Osmani and Boris Cherny gave it a name: you stop prompting the agent and start designing the loop that prompts it. Here are their six pieces, which I&amp;#39;ve spent months trying out in my own setup, plus some critical small print.</description>
     </item>
     <item>
       <title>What&#39;s already decided isn&#39;t up for debate: determinism in AI workflows</title>
-      <link>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</link>
+      <link>https://jupaygon.dev/en/posts/2026-05-13/determinism-in-ai-workflows/</link>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-05-13/determinism-in-ai-workflows/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-05-13/determinism-in-ai-workflows/</guid>
       <description>An AI agent is non-deterministic by design. To make it reliable, you take the decisions that are already made out of the LLM and crystallise them into hooks, scripts and tables. What stays inside the model is bounded execution; the human is who decides.</description>
     </item>
     <item>
       <title>Context window: when your AI agent starts forgetting</title>
-      <link>https://jupaygon.com/en/posts/2026-04-14/context-window/</link>
+      <link>https://jupaygon.dev/en/posts/2026-04-14/context-window/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-04-14/context-window/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-04-14/context-window/</guid>
       <description>The context window is the scarcest resource in AI-augmented development. When your policies, protocols, and sessions grow, the agent starts ignoring instructions. Here is how we fixed it.</description>
     </item>
     <item>
       <title>AI will not replace you. But it will multiply you — careful with being zero</title>
-      <link>https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/</link>
+      <link>https://jupaygon.dev/en/posts/2026-04-07/ai-fear-vs-opportunity/</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-04-07/ai-fear-vs-opportunity/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-04-07/ai-fear-vs-opportunity/</guid>
       <description>Developers fear AI will take their jobs. History says otherwise. AI is the next abstraction layer — and it multiplies whoever uses it. But you cannot multiply by zero.</description>
     </item>
     <item>
       <title>Inside Claude Code: 10 interesting things from analyzing its source code</title>
-      <link>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</link>
+      <link>https://jupaygon.dev/en/posts/2026-04-01/claude-code-internals/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-04-01/claude-code-internals/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-04-01/claude-code-internals/</guid>
       <description>The Claude Code source was briefly leaked and someone made a public port. We analyzed it in depth. Here are some useful things to get more out of it as a developer.</description>
     </item>
     <item>
       <title>AI Skills: how to give your AI agent verified knowledge it does not have</title>
-      <link>https://jupaygon.com/en/posts/2026-03-29/ai-skills/</link>
+      <link>https://jupaygon.dev/en/posts/2026-03-29/ai-skills/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-03-29/ai-skills/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-03-29/ai-skills/</guid>
       <description>Your AI agent does not know what changed in the latest version of the technologies you use. AI Skills fix that: structured, verified documentation optimized for machines. Here is how we build and use them.</description>
     </item>
     <item>
       <title>AI-Augmented Development: my real experience working with an AI agent</title>
-      <link>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</link>
+      <link>https://jupaygon.dev/en/posts/2026-03-26/ai-augmented-development/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/en/posts/2026-03-26/ai-augmented-development/</guid>
+      <guid>https://jupaygon.dev/en/posts/2026-03-26/ai-augmented-development/</guid>
       <description>I have been working with an AI agent as a development collaborator for months. It is not autocomplete. It is another developer on the team. This is what I have learned.</description>
     </item>
   </channel>

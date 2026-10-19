@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Security on Code &amp; AI</title>
-    <link>https://jupaygon.com/es/tags/security/</link>
+    <link>https://jupaygon.dev/es/tags/security/</link>
     <description>Recent content in Security on Code &amp; AI</description>
     <image>
       <title>Code &amp; AI</title>
-      <url>https://jupaygon.com/images/og-default.jpg</url>
-      <link>https://jupaygon.com/images/og-default.jpg</link>
+      <url>https://jupaygon.dev/images/og-default.jpg</url>
+      <link>https://jupaygon.dev/images/og-default.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
     <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jupaygon.com/es/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jupaygon.dev/es/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Los agentes como usuarios de la infraestructura</title>
-      <link>https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/</link>
+      <link>https://jupaygon.dev/es/posts/2026-09-04/agent-as-a-user/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/posts/2026-09-04/agent-as-a-user/</guid>
+      <guid>https://jupaygon.dev/es/posts/2026-09-04/agent-as-a-user/</guid>
       <description>Qué hacen de verdad tus agentes en tus máquinas, si los dejas. Cuidado con el sudoers que da root, las allowlist de SSH que permiten saltar a cualquier sitio, y otros peligros por exceso de confianza.</description>
     </item>
   </channel>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Productivity on Code &amp; AI</title>
-    <link>https://jupaygon.com/es/tags/productivity/</link>
+    <link>https://jupaygon.dev/es/tags/productivity/</link>
     <description>Recent content in Productivity on Code &amp; AI</description>
     <image>
       <title>Code &amp; AI</title>
-      <url>https://jupaygon.com/images/og-default.jpg</url>
-      <link>https://jupaygon.com/images/og-default.jpg</link>
+      <url>https://jupaygon.dev/images/og-default.jpg</url>
+      <link>https://jupaygon.dev/images/og-default.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>2026 Juanjo Payá</copyright>
     <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jupaygon.com/es/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jupaygon.dev/es/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Context window: cuando tu agente IA empieza a olvidar</title>
-      <link>https://jupaygon.com/es/posts/2026-04-14/context-window/</link>
+      <link>https://jupaygon.dev/es/posts/2026-04-14/context-window/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/posts/2026-04-14/context-window/</guid>
+      <guid>https://jupaygon.dev/es/posts/2026-04-14/context-window/</guid>
       <description>El context window es el recurso más escaso del desarrollo con IA. Cuando tus políticas, protocolos y sesiones crecen, el agente empieza a ignorar instrucciones. Así lo hemos resuelto.</description>
     </item>
     <item>
       <title>Dentro de Claude Code: 10 cosas interesantes analizando su código fuente</title>
-      <link>https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/</link>
+      <link>https://jupaygon.dev/es/posts/2026-04-01/claude-code-internals/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/posts/2026-04-01/claude-code-internals/</guid>
+      <guid>https://jupaygon.dev/es/posts/2026-04-01/claude-code-internals/</guid>
       <description>El source code de Claude Code se filtró brevemente y alguien hizo un port público. Lo hemos analizado a fondo. Estas son algunas cosas útiles para sacarle más partido como developer.</description>
     </item>
     <item>
       <title>AI-Augmented Development: mi experiencia real trabajando con un agente IA</title>
-      <link>https://jupaygon.com/es/posts/2026-03-26/ai-augmented-development/</link>
+      <link>https://jupaygon.dev/es/posts/2026-03-26/ai-augmented-development/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://jupaygon.com/es/posts/2026-03-26/ai-augmented-development/</guid>
+      <guid>https://jupaygon.dev/es/posts/2026-03-26/ai-augmented-development/</guid>
       <description>Llevo meses trabajando con un agente IA como colaborador de desarrollo. No es autocompletado. Es otro developer en el equipo. Esto es lo que he aprendido.</description>
     </item>
   </channel>
