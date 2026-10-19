@@ -25,6 +25,11 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Check the site is built for jupaygon.dev
+        run: |
+          grep -qx 'jupaygon.dev' public/CNAME
+          ! grep -rl 'jupaygon\.com' public
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
